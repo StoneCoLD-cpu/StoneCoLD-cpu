@@ -30,8 +30,8 @@ In my spare time, I love experimenting with cooking new recipes—it's a great w
 ## Get In Touch
 Feel free to reach out to me if you’d like to connect or collaborate on a project!
 - 📧 Email: [your.mosixberyl@gmail.com](mailto:your.mosixberyl@gmail.com)
-- 🌐 LinkedIn: [Moses Orji](https://www.linkedin.com/in/moses-orji-5553a8a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💼 Portfolio: [3webb.us](https://3webb.us)
+- 🌐 LinkedIn: [Moses Orji](https://www.linkedin.com/in/moses-orji-5553a8a9 
+- 💼 Portfolio: [3webb.us](modiamond.vercel.app)
 
 
 Looking forward to connecting and building amazing projects together!
